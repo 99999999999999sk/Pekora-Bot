@@ -1,0 +1,8 @@
+{
+  "dog": "put your dogsecurity here",
+  "peko": "put your pekosecurity here",
+  "puppy": "put your puppysecurity here",
+  "cf_clearance": "put your cf_clearance here",
+  "use_webhook": true / false, 
+  "webhook_url": "put your discord webhook here"
+}
